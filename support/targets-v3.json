@@ -2,7 +2,7 @@
   "schemaVersion": 3,
   "payloads": [
     {
-      "payloadId": "r9q-G990BXXSLIZF1",
+      "payloadId": "r9q-G990BXXSKIZH2",
       "displayName": "Galaxy S21 FE 5G (SM-G990B2) | Kernel 5.4.289",
       "models": ["SM-G990B2"],
       "kernelVersions": ["5.4.289"],
